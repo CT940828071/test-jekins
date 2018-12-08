@@ -87,4 +87,9 @@
             </plugin>
         </plugins>
     </build>
+    <profiles>
+        <profile>
+            <id>online</id>
+        </profile>
+    </profiles>
 </project>
